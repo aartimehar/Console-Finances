@@ -108,14 +108,17 @@ for (let i = 0; i < finances.length; i++) {
 }
 
 let average = totalChange / (finances.length - 1)
-console.log(`🧮 - finances length: ${finances.length}`)
-console.log(`🧮 - Total: ${total}`)
-console.log(`🧮 - Average Change: ${average}`)
-console.log(`🧮 - Greatest Increase: ${largestIncrease}`)
-console.log(`🧮 - Greatest Decrease: ${largestDecrease}`)
+average =  average.toFixed(2);
+console.log(`Financial Analysis`)
+console.log(`---------------------------------------------`)
+console.log(`Total Months :  ${finances.length}`)
+console.log(`Total : ${total}`)
+console.log(`Average Change : ${average}`)
+console.log(`Greatest Increase : ${largestIncrease}`)
+console.log(`Greatest Decrease : ${largestDecrease}`)
 
 
-'use strict';
+
 
 function typeWriter(el) {
     const textArray = el.innerHTML.split('');
