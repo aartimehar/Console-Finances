@@ -36,6 +36,11 @@ A big thank you to the whole team of Bootcamp and my Instructor Neteyana Blake f
 
 ## Live URL
 
+https://aartimehar.github.io/Console-Finances/
+
+## Github repositary URL
+
+https://github.com/aartimehar/Console-Finances
 
 ## License
 
