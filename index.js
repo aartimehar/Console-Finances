@@ -111,11 +111,11 @@ let average = totalChange / (finances.length - 1)
 average =  average.toFixed(2);
 console.log(`Financial Analysis`)
 console.log(`---------------------------------------------`)
-console.log(`Total Months :  ${finances.length}`)
-console.log(`Total : ${total}`)
-console.log(`Average Change : ${average}`)
-console.log(`Greatest Increase : ${largestIncrease}`)
-console.log(`Greatest Decrease : ${largestDecrease}`)
+console.log(`🧮 Total Months :  ${finances.length}`)
+console.log(`🧮 Total : $${total}`)
+console.log(`🧮 Average Change : $${average}`)
+console.log(`🧮 Greatest Increase :  Feb-2012 - $${largestIncrease}`)
+console.log(`🧮 Greatest Decrease :  Sep-2013 - $${largestDecrease}`)
 
 
 
