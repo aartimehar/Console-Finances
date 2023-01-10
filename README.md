@@ -37,6 +37,6 @@ A big thank you to the whole team of Bootcamp and my Instructor Neteyana Blake f
 ## Live URL
 
 
-##License
+## License
 
 Refer to Repositary
