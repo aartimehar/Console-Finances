@@ -19,7 +19,7 @@ NA
 ## Usage
 
   The usage of this repo is to determine the Financial Summary of the company.
-- This repositary contains: 
+
 - Application deployed at live URL.
 - Application loads with no errors.
 - Application GitHub URL submitted.
